@@ -1,0 +1,1 @@
+# Nuxt + prisma + shadcn starter
